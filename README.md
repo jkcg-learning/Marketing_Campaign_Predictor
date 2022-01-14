@@ -37,6 +37,8 @@ conversion - customer conversion(buy or not)
 
 ![EDA5](results/EDA5.png?raw=true "EDA5")
 
+![EDA6](results/EDA6.png?raw=true "EDA6")
+
 
 
 
