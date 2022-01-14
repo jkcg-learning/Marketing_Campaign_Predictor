@@ -5,7 +5,7 @@ An ML based tool to check whether marketing team's campaign resulted in customer
 
 ![Tool](results/app.JPG?raw=true "Gradio App")
 
-**Parameters**
+## Parameters ##
 
 recency - months since last purchase
 
@@ -25,7 +25,14 @@ offer - the offers sent to the customers, Discount/But One Get One/No Offer
 
 conversion - customer conversion(buy or not)
 
+## Machine Learning Implementation ##
 
+![ML](results/recording.3gp?raw=true "Walkthrough")
+
+F1 score metric obtained is 30% for this imbalanced dataset. (This could be improved by finetuning)
+
+
+## Exploratory Data Analysis ##
 
 ![EDA1](results/EDA1.png?raw=true "EDA1")
 
