@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Analytics/Analytics%20learning/FullTimeJobs/Projects/Classification/Marketing_Campaign_Predictor/mlruns/1/db6069efc28241fc88a528057e8b7f47/artifacts
+end_time: 1642189601584
+experiment_id: '1'
+lifecycle_stage: active
+run_id: db6069efc28241fc88a528057e8b7f47
+run_uuid: db6069efc28241fc88a528057e8b7f47
+start_time: 1642189599834
+status: 3
+user_id: DELL
+tags: []
+name: ''
+source_type: 4
+source_name: ''
+entry_point_name: ''
+source_version: ''
