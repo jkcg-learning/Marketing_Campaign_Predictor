@@ -27,7 +27,7 @@ conversion - customer conversion(buy or not)
 
 ## Machine Learning Implementation ##
 
-![ML](results/recording.mov?raw=true "Walkthrough")
+![ML](results/recording.mp4?raw=true "Walkthrough")
 
 F1 score metric obtained is 30% for this imbalanced dataset. (This could be improved by finetuning)
 
