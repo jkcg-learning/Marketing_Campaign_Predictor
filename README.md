@@ -33,6 +33,10 @@ https://user-images.githubusercontent.com/47096512/149586974-507cdb29-e197-4f11-
 F1 score metric obtained is 30% for this imbalanced dataset. (This could be improved by finetuning)
 
 
+![MLFlow](results/MLflow.JPG?raw=true "MLFLow")
+
+![FASTAPI](results/FastAPI.JPG?raw=true "FASTAPI")
+
 ## Exploratory Data Analysis ##
 
 ![EDA1](results/EDA1.png?raw=true "EDA1")
