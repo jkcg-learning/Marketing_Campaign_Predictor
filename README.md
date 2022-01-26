@@ -32,10 +32,19 @@ https://user-images.githubusercontent.com/47096512/149586974-507cdb29-e197-4f11-
 
 F1 score metric obtained is 30% for this imbalanced dataset. (This could be improved by finetuning)
 
+## Logs
 
-![MLFlow](results/MLflow.JPG?raw=true "MLFLow")
+![MLFlow](results/mlflow.JPG?raw=true "MLFLow")
 
-![FASTAPI](results/FastAPI.JPG?raw=true "FASTAPI")
+## Deployment
+
+![FASTAPI](results/fastapi.JPG?raw=true "FASTAPI")
+
+![Docker](results/Docker.JPG?raw=true "Docker")
+
+## Explainable AI
+
+[please click here](results/dashboard.html)
 
 ## Exploratory Data Analysis ##
 
